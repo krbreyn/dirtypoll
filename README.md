@@ -1,2 +1,2 @@
 # dirtypoll
-A quick &amp; dirty raw site you can spin up for running polls.
+A quick &amp; dirty site you can spin up for running polls.
